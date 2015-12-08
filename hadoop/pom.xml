@@ -14,6 +14,11 @@
             <name>Hortonworks HDP Maven Repository</name>
             <url>http://repo.hortonworks.com/content/repositories/releases/</url>
         </repository>
+        <repository>
+            <id>repo.pub.hortonworks.com</id>
+            <name>Hortonworks Public HDP Maven Repository</name>
+            <url>http://repo.hortonworks.com/content/groups/public/</url>
+        </repository>
     </repositories>
 
     <properties>
